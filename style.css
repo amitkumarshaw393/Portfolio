@@ -27,10 +27,12 @@ section{
     padding: 100px 0;
 }
 .max-width{
-    max-width: 1300px;
+    max-width: 1400px;
     padding: 0 80px;
     margin: auto;
+    
 }
+
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
